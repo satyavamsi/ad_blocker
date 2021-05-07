@@ -17,7 +17,7 @@ You can clone the repository on to your local machine and follow the below steps
 
 I have already added some of the famous ad urls but if you want to add more follow the steps below.
 
-1.Open background.js and add the url to defaultUrls variable
+1.Open background.js and add the url to defaultFilters variable
 ```
 const defaultFilters = [
     "*://*.doubleclick.net/*",
