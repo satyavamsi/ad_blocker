@@ -6,7 +6,7 @@ This is a simple ad blocker more like a url blocker.
 You can clone the repository on to your local machine and follow the below steps to use this extension
 
 1. Open chrome and go to this URL -  chrome://extensions
-2. Toggle developer mode on the right hand side 
+2. Toggle developer mode on the right side 
   ![alt text](https://github.com/satyavamsi/ad_blocker/blob/master/screenshots/dev_mode.png)
 3. Click on "Load Unpacked"
 4. Select the cloned repository.
